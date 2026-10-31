@@ -114,4 +114,20 @@ The following scenarios can be tested:
 
 This project is a working demonstration prototype. Consent records and audit logs are currently stored in backend memory and are reset when the backend restarts.
 
+## Project Screenshots
+
+### ConsentGuard Homepage
+![Homepage](screenshots/homepage.png)
+
+### Consent Granted
+![Consent Granted](screenshots/consent-granted.png)
+
+### Consent Withdrawn
+![Consent Withdrawn](screenshots/consent-withdrawn.png)
+
+### Data Access Denied
+![Access Denied](screenshots/access-denied.png)
+
+### Audit Logs
+![Audit Logs](screenshots/audit-logs.png)
 
