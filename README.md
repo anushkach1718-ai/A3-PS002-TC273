@@ -109,7 +109,8 @@ The following scenarios can be tested:
 **Team Name:** Hacksphere
 
 **Project:** ConsentGuard
-
+  **project information video:**
+https://youtube.com/shorts/yqzj_vtK06g?si=3RbQZmZyVwKiz9Eu
 ## 12. Important Note
 
 This project is a working demonstration prototype. Consent records and audit logs are currently stored in backend memory and are reset when the backend restarts.
