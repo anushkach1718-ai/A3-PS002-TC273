@@ -125,9 +125,10 @@ This project is a working demonstration prototype. Consent records and audit log
 ### Consent Withdrawn
 ![Consent Withdrawn](screenshots/consent-withdrawn.png)
 
-### Data Access Denied
-![Access Denied](screenshots/access-denied.png)
+### Access Denied
+![Access Denied]<img width="1920" height="1080" alt="acees denied" src="https://github.com/user-attachments/assets/6ce8313d-d110-41e3-8c90-11cf3d242549" />
 
 ### Audit Logs
-![Audit Logs](screenshots/audit-logs.png)
+![Audit Logs]<img width="1920" height="1080" alt="audit logs" src="https://github.com/user-attachments/assets/2a4f33f2-9526-4093-9628-93c155379a7b" />
+
 
